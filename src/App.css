@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Dynamic Trooper Gradient Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Dynamic Trooper Gradient Regular'), url('DynamicTrooperGradient.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Dynamic Trooper Gradient Regular';
+    font-size: 80px;
+    font-weight: normal;
+    color: #81f6d5aa;
+}
