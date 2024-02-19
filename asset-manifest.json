@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RobotFriends_v1/static/css/main.2977df36.css",
+    "main.js": "/RobotFriends_v1/static/js/main.f2555b80.js",
+    "static/js/453.4702491d.chunk.js": "/RobotFriends_v1/static/js/453.4702491d.chunk.js",
+    "static/media/DynamicTrooperGradient.woff": "/RobotFriends_v1/static/media/DynamicTrooperGradient.a63d86a373b3efb75634.woff",
+    "index.html": "/RobotFriends_v1/index.html",
+    "main.2977df36.css.map": "/RobotFriends_v1/static/css/main.2977df36.css.map",
+    "main.f2555b80.js.map": "/RobotFriends_v1/static/js/main.f2555b80.js.map",
+    "453.4702491d.chunk.js.map": "/RobotFriends_v1/static/js/453.4702491d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2977df36.css",
+    "static/js/main.f2555b80.js"
+  ]
+}
